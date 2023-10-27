@@ -1,0 +1,2 @@
+# wanderson
+pensamento computacional
